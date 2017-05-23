@@ -56,7 +56,7 @@ Show code as Demo.php here:
 
 # Notice
 
-    Before you run the Demo.php, you must create two tables in the Hbase based on annotations in code files in Db.
+    Before you run the Demo.php, you must create two tables in the Hbase based on annotations in code files in Model.
 
 -------------------------------------------------
 ## Contact me
